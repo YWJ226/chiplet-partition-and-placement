@@ -1,0 +1,41 @@
+{
+  "chips": [
+    "ga100"
+  ],
+  "disabled_chips": [
+    "epyc_7282",
+    "epyc_7502p",
+    "epyc_7552",
+    "epyc_7702p",
+    "ryzen_7_3700x",
+    "ryzen_9_3900",
+    "xeon_platinum_8380",
+    "xeon_platinum_8368",
+    "rk3568",
+    "rk3568j",
+    "rk3566",
+    "rk3399",
+    "rk3399pro",
+    "rk3288",
+    "rk3368",
+    "rk3326",
+    "rk3328",
+    "rk3308",
+    "kunpeng920_server",
+    "kunpeng920_lite",
+    "pcie_switch",
+    "tiangang",
+    "ascend_910",
+    "hi1822",
+    "ga100",
+    "ga102",
+    "ga103",
+    "ga104",
+    "ga106",
+    "ga107",
+    "RocketConfig",
+    "QuadRocketConfig",
+    "Cloned64RocketConfig"
+  ]
+
+}
